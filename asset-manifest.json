@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mrkan-alelgn.github.io/static/css/main.f0136789.css",
-    "main.js": "/mrkan-alelgn.github.io/static/js/main.714ab79c.js",
-    "index.html": "/mrkan-alelgn.github.io/index.html",
-    "main.f0136789.css.map": "/mrkan-alelgn.github.io/static/css/main.f0136789.css.map",
-    "main.714ab79c.js.map": "/mrkan-alelgn.github.io/static/js/main.714ab79c.js.map"
+    "main.css": "/static/css/main.f0136789.css",
+    "main.js": "/static/js/main.1e2289d7.js",
+    "index.html": "/index.html",
+    "main.f0136789.css.map": "/static/css/main.f0136789.css.map",
+    "main.1e2289d7.js.map": "/static/js/main.1e2289d7.js.map"
   },
   "entrypoints": [
     "static/css/main.f0136789.css",
-    "static/js/main.714ab79c.js"
+    "static/js/main.1e2289d7.js"
   ]
 }
