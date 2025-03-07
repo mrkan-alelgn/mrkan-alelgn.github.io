@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mrkan-alelgn.github.io/static/css/main.f0136789.css",
+    "main.js": "/mrkan-alelgn.github.io/static/js/main.714ab79c.js",
+    "index.html": "/mrkan-alelgn.github.io/index.html",
+    "main.f0136789.css.map": "/mrkan-alelgn.github.io/static/css/main.f0136789.css.map",
+    "main.714ab79c.js.map": "/mrkan-alelgn.github.io/static/js/main.714ab79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0136789.css",
+    "static/js/main.714ab79c.js"
+  ]
+}
